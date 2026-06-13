@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Javier
 
-<!--
-**javier-gracia-santiago/javier-gracia-santiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer working on **Battery Energy Storage Systems** 
+at Volvo Energy in Gothenburg, Sweden.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Embedded software in Python for battery system control 
+  and monitoring.
+- Software architecture and testing practices applied to 
+  energy systems.
+
+## Currently exploring
+
+- Domain-Driven Design and Architecture Patterns in Python.
+- Battery system modelling and simulation.
+- Optimisation and applied mathematics for energy systems.
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/fco-javier-gracia](https://linkedin.com/in/fco-javier-gracia)
+- Email: f.javier.gracia.santiago@gmail.com
